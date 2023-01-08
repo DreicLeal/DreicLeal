@@ -13,6 +13,7 @@
 
 
 <div align="center">
+          
 **Tools and technologies in continuous improvement:**
 
 <div>
