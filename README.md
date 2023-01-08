@@ -11,7 +11,10 @@
 - 👨‍💻 I'm Practicing on [CodeWars](https://www.codewars.com/users/DreicLeal) and on personal projects;
 - 📫 You can reach me via Email: ```dreicleal@hotmail.com``` or connect with me on [LinkedIn](https://www.linkedin.com/in/dreicleal/).
 
+
+<p style="text-align:center">
 **Tools and technologies in continuous improvement:**
+          
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -24,6 +27,7 @@
 </div>
 
 **I want to learn:**
+          
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
@@ -31,4 +35,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
 </div>
+<p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreicLeal&layout=compact)](https://github.com/DreicLeal/github-readme-stats)
           
